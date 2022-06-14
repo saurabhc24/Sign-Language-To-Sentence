@@ -30,7 +30,7 @@ pip install os-sys
 ---
 OpenCV
 ```bash
-opencv -> pip install opencv-python
+pip install opencv-python
 ```
 ---
 TensorFlow
